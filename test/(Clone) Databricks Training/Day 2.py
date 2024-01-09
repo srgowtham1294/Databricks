@@ -22,4 +22,4 @@ print("Hello Python world!")
 
 # COMMAND ----------
 
-
+print("Running again and check git version")
